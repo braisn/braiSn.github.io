@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: >
+  braiSn.github.io | \_o<
 ---
 
 Ici c'est la présence du braiSn sur le web.
