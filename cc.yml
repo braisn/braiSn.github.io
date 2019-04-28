@@ -1,0 +1,18 @@
+# standard jekyll configuration options
+
+exclude: ['Rakefile', 'README.md', 'config.rb']
+
+# configuration required for some pages
+
+
+# configuration for ehancements, uncomment to enable
+
+# feedburner:
+#   id: feedburnerid
+
+# google_analytics:
+#   account: UA-XXXXX-X
+
+# github:
+#   username: ghusername
+
