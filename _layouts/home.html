@@ -15,7 +15,7 @@ layout: default
   </section>
 
   {%- if site.posts.size > 0 -%}
-    <p class="h4">{{ page.list_title | default: "Posts" }}</p>
+    <p class="h4">{{ page.list_title | default: "Articles" }}</p>
     <ul class="list-unstyled">
       {%- for post in site.posts -%}
       <li>
@@ -35,7 +35,7 @@ layout: default
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <p class="rss-subscribe">suivre <a href="{{ "/feed.xml" | relative_url }}">RSS</a></p>
   {%- endif -%}
 
 </div>
