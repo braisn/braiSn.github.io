@@ -17,6 +17,11 @@
           </li>
           {%- endif -%}
         {% endfor -%}
+        {%- for path in site.header_links -%}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ path[1] }}">{{ path[0] | escape }}</a>
+          </li>
+        {% endfor -%}
       </ul>
     </div>
   </div>

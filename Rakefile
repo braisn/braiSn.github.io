@@ -1,5 +1,10 @@
 task :default => :server
 
+desc 'Convert articles to markdown pages'
+task :convert do
+
+end
+
 desc 'Clean up generated site'
 task :clean do
   cleanup
@@ -48,6 +53,11 @@ task :check_links do
   rescue LoadError
     abort 'Install anemone gem: gem install anemone'
   end
+end
+
+def convert
+  sh 'find articles -type f -exec pandoc {} --output {}.md'
+  sh 'find articles -type f -name "*.md" -exec mv {} _pages'
 end
 
 def cleanup
