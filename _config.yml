@@ -41,3 +41,6 @@ exclude:
   - update_boostrap.sh
 disqus:
   id: braisn
+
+header_links:
+  Reddit: https://www.reddit.com/r/braisn
