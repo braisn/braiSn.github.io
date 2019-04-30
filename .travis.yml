@@ -1,4 +1,7 @@
 language: ruby
+before_install:
+  - sudo apt-get install pandoc
+
 rvm:
   - 2.2
 script:
