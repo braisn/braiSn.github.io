@@ -41,7 +41,7 @@ En 2004-2006 je crois au grand-père magique dans le ciel. En 2007, je me dis qu
 
 Je mets un peu le symbolisme sous le boisseau à ce moment car je réalise que je ne peux pas baser mon éthique sur un système de croyances en un au-delà. Si je fais ça, je peux toujours remettre au monde futur le bien. L'enseignement talmudique des Pirke Avot (maximes des pères, un ouvrage d'éthique juive inclus dans le Talmud) validera ça par
 
-    Si je ne suis pas pour moi, qui le sera ? Si je ne suis que pour moi, que suis-je ? Et si pas maintenant, quand ?
+> Si je ne suis pas pour moi, qui le sera ? Si je ne suis que pour moi, que suis-je ? Et si pas maintenant, quand ?
 
 Aujourd'hui j'assume tout à fait ma synthèse syncrétique. Je me revendique juif.ve haut et fort et à tort et à travers (`bande d'antisémites !`), je connais mon parcours dans la mystique, mes circumambulations respectueuses autour du tantra, mon plongeon dans la bhakti, mon séchage dans l'étude de la loi juive... et tout ça va très bien ensemble (à supposer que tu supportes ma façon d'être).
 
