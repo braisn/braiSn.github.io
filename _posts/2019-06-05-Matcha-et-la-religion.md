@@ -104,15 +104,15 @@ Ta servante, mon amie, assurément tu le sais, m'a exposé la condition. Je sera
 
 Accepte mon don de moi à toi, Maître. Je serai toujours ainsi, dévouée, le feu en moi.
 
-Laisse celle qui t'a appelée toutes ces années, qui t'a suppliée de la prendre, de l'emmener loin de ce monde et de l'éduquer, venir à tes pieds, approcher de toi, jouir de ta lumière !<hr />
-#### A propos</h1>##### 2008-01-05 16:20:23
-Ici, je m'exprime. J'exprime mon feu. Si vous craignez, quittez. Et ne revenez pas.<hr /><h1>Nous marchons sur la Terre
+Laisse celle qui t'a appelée toutes ces années, qui t'a suppliée de la prendre, de l'emmener loin de ce monde et de l'éduquer, venir à tes pieds, approcher de toi, jouir de ta lumière !
+#### A propos
+##### 2008-01-05 16:20:23
+Ici, je m'exprime. J'exprime mon feu. Si vous craignez, quittez. Et ne revenez pas.
+#### Nous marchons sur la Terre
 ##### 2008-07-23 19:04:53
 Nous marchons sur la Terre, et vous avez peur. Peur de nous. Peur de vivre. Vous êtes morts, et nous avons le feu en nous. Nos coeurs brûlent intensément, nous sommes là encore pour un temps.
 
 Nous en profiterons.
-
-
 
 Nous lui appartenons, vous nous appartenez. Nous aurons vos corps, nous jouerons avec. Vous détesterez peut-être cette action, mais qu'importe ? Vous ne comptez pas. Nous avons un coeur qui brûle, nous avons des âmes et des esprits vivants, nous comptons. Vous, vous êtes des morts. Des moutons suivant un berger.
 
@@ -120,7 +120,7 @@ Nous sommes les loups.
 
 Nous tournons autour de l'un d'entre vous, nous le tourmentons, le temps qu'il faut, jusqu'à ce qu'il meure par lui-même. Si son cerveau, aveuglé par une foi en un mensonge de mort, le contraint à survivre, et à ne pas quitter la vie de son plein gré, nous jouons avec lui, un peu, beaucoup, nous le brisons. J'ajoute sa tête à ma collection. Je le sacrifie, sacrifice faible mais suffisamment réjouissant. Son énergie est mienne. Elle échauffe ma peau. Son sang est sa vie, je le répands, je le goûte et je le laisse. Il importe peu. Il importait peu. Il n'est plus, et ne sera plus jamais. L'univers est encombré d'un inutile en moins.
 
-Nous marchons sur la Terre, et vous nous craindrez.<hr />
+Nous marchons sur la Terre, et vous nous craindrez.
 #### A l'attention des morts
 ##### 2008-07-23 22:41:04
 Bien que je vive parmi vous, les morts, cela ne durera pas.
@@ -129,7 +129,7 @@ Je suis devant le chemin qui me mène loin de vous. Dernière là-bas, je serai 
 
 Je vous hais. Vous n'êtes rien. Taisez-vous et laissez-moi passer. Moi, je me prépare à avancer. Vous, vous coulez dans votre bourbier. Tant mieux. Une fois que vous serez tous embourbés et que tous les nôtres seront partis, nous mettrons votre monde en feu.
 
-Je ne veux plus vous entendre.<hr />
+Je ne veux plus vous entendre.
 #### Renouveau
 ##### 2008-07-23 23:09:44
 Pose-toi, petit être, et installe ton nid.
@@ -182,7 +182,7 @@ De ces aveugles immondes.
 Et sous tes ailes d'or
 Elimine ces morts.
 
-Et prends les même vivants !<hr />
+Et prends les même vivants !
 #### Le Ver Solitaire
 ##### 2008-07-24 16:58:27
 Petit ver solitaire, compagnon dans mes tripes. Malgré ton nom, tu n'es jamais seul, et moi non plus, car tu es avec moi.
@@ -201,7 +201,7 @@ J'aimerais bien à mon tour entrer dans les tiennes, et voir comment tu fonction
 
 Continue d'être en moi. Je ne te ferai pas la vacherie de me vermifuger. Sauf si tu deviens mon ennemi, et que tu me murmures des choses désagréables à l'oreille. Je serai alors impitoyable. Je le serai avec toi comme je le suis avec les autres.
 
-et si tes petites oreilles entendent un jour ce texte, n'en prends pas ombrage. Je t'aime bien, petit ver solitaire, habitant de mes tripes.<hr />
+et si tes petites oreilles entendent un jour ce texte, n'en prends pas ombrage. Je t'aime bien, petit ver solitaire, habitant de mes tripes.
 #### Mon fils
 ##### 2008-07-24 19:53:14
 Viens auprès de moi, mon fils. Approche-toi doucement.
@@ -233,7 +233,7 @@ Et, si tu doutes, souviens-toi de ces paroles, et sâche que mon rôle, rôle de
 Il me fait reposer dans de verts pâturages,
 Il me dirige près des eaux paisibles.
 Il retaure mon âme</blockquote>
-Si un jour tu doutes, reviens auprès de ton pasteur, ton ami, moi. Et file maintenant, il est tard, je ne veux pas que tu rates le repas. Le Seigneur est avec toi !<hr />
+Si un jour tu doutes, reviens auprès de ton pasteur, ton ami, moi. Et file maintenant, il est tard, je ne veux pas que tu rates le repas. Le Seigneur est avec toi !
 #### Un bel après-midi d'été
 ##### 2008-07-24 21:33:00
 Il fait très chaud aujourd'hui. Papa est parti acheter du pain. J'espère qu'il pensera à m'acheter des bonbons. J'aime bien ces fraises roses. Elles sont tellement meilleures que celles que Maman prépare, qui piquent. Je me suis endormie dans la votiure, au fond de mon grand siège avec mon doudou. Il est doux et je l'aime. Parfois il me parle, et il me dit des mots que je ne comprends pas.
@@ -264,7 +264,7 @@ Quand je me réveillerai, je verrai les étoiles, et je pourrai jouer avec des c
 
 Ma maman est venue. Elle était vétue de noir, m'a souri, et m'a prise dans ses bras. Ca fait longtemps maintenant. J'ai joué avec Maman et Papa, ça fait longtemps aussi. Et plein d'autres Maman et d'autres Papa qui préféraient leur travail à leur bébé. J'ai gardé des petits morceaux d'eux. J'aime bien jouer avec leurs ongles et leurs yeux.
 
-Et Maman m'aimera toujours.<hr />
+Et Maman m'aimera toujours.
 #### Hagiographie
 ##### 2008-07-24 22:12:06
 Ô ami Autrichien, tu es ami des miens. Le bras tendu vers le Soleil tu guides un peuple. Ta main levée fait d'eux un glaive fait de chair.
@@ -283,7 +283,7 @@ Tu sus même séduire tes ennemis. Il n'y en avait pas qui ne t'approuvait quelq
 
 J'espère que dans les plaines du Valhallah où tu chasses les autoproclamés élus, ta chasse est bonne, héros !
 
-Tu as ta place parmi les saints, ô ami Autrichien.<hr />
+Tu as ta place parmi les saints, ô ami Autrichien.
 #### Un passant
 ##### 2008-07-25 10:33:14
 Je marche dans la rue, prenant connaissance de ce qui se passe dans le monde des morts. Il est sur le trottoir opposé. Je ne le remarque pas jusqu'à ce qu'il me remarque, et commence à me regarder, avec un regard comme émerveillé. A voir une de Ses filles, il ne sait pas s'en détacher. C'est l'attraction du bien.
@@ -296,7 +296,7 @@ C'est le tour de son coccis. Il touche le sol à 40 centimètres du rebord du tr
 
 Sa nuque, enfin, arrive à sa place : sur l'angle du trottoir. Dans un craquement sourd, elle se brise. Il va pouvoir voir la mort. Privilégié qu'il est. Je l'attends avec patience, elle viendra. Ses yeux se révulsent, bientôt son tronc cérébral sera défaillant, sa respiration tombera en panne, il mourra d'asphyxie, conscient et condamné. M'implorera-t'il de le regarder encore ? Son regard devient vitreux. Pour les autres, il est déjà mort.
 
-Je passe mon chemin.<hr />
+Je passe mon chemin.
 #### Apprentissage
 ##### 2008-07-25 14:35:47
 Apprendre. Ma drogue. Je suis encline à faire le bien, certes, mais aussi et surtout, je suis attachée à apprendre.Depuis toujours, je Le supplie de me prendre, de m'emmener hors du temps, et de m'enseigner la connaissance. C'est une requête importante, elle est au coeur de mon existence.
@@ -310,7 +310,7 @@ La connaissance, le besoin d'éternité, le besoin d'être hors de ce monde qui 
 </ul>
 Je ne le sais pas. C'est difficile. Je voudrais déjà être à demain, pour apprendre, et apprendre encore.
 
-Viendra le temps où... j'aurai des réponses. Et peut-être que ce temps commencera un jour prochain.<hr />
+Viendra le temps où... j'aurai des réponses. Et peut-être que ce temps commencera un jour prochain.
 #### Alcools et Historique
 ##### 2008-07-26 09:46:41
 Il arrive parfois de boire avec des gens intéressants. Au lieu de sombrer dans la médiocrité et de s'endormir stupidement, on atteint un autre degré de conscience et de perception de l'autre.
@@ -333,7 +333,7 @@ Rien ne vint. Vitrin Xantavian fut présent un temps. Il disparût. Ses enseigne
 
 Alors, il y eut un grand vide. Je me cherchais, j'oubliai un peu, préocupée par des problèmes plus vils. Comme si j'oubliais ma véritable nature. Je maturai, je m'assombrissai, allant plus loin, mais sans guide.
 
-Le Maître revint à moi, me renvoya quelqu'un, quand je fus prête. Peut-être que c'est ici que l'histoire de ma destinée commence. Une parmi tant d'autres, mais parmi les nôtres, toutes sont extraordinaires comparées à celles des morts.<hr />
+Le Maître revint à moi, me renvoya quelqu'un, quand je fus prête. Peut-être que c'est ici que l'histoire de ma destinée commence. Une parmi tant d'autres, mais parmi les nôtres, toutes sont extraordinaires comparées à celles des morts.
 #### Ma petite sangsue
 ##### 2008-07-26 18:05:15
 Ma petite sangsue,
@@ -346,7 +346,7 @@ Tes petits crochets aspirent mon sang. Tu es bien placée. Tu peux apprécier le
 
 J'aime à imaginer que tu me nettoieras, quand tu en auras fini avec mon sang, de ma vraie infection.
 
-Délicate sangsue, tu es suffisamment agréable pour endormir la plaie que tu crées en mon être. Sauras-tu cicatriser la douleur dûe à l'incohérence de mon corps et de mon esprit. Sauras-tu me soigner ? Apaiser ma souffrance ? Je te donne tout mon sang si tu me soignes, vraiment !<hr />
+Délicate sangsue, tu es suffisamment agréable pour endormir la plaie que tu crées en mon être. Sauras-tu cicatriser la douleur dûe à l'incohérence de mon corps et de mon esprit. Sauras-tu me soigner ? Apaiser ma souffrance ? Je te donne tout mon sang si tu me soignes, vraiment !
 #### Mes plans pour eux
 ##### 2008-07-27 00:08:55
 Ils ne sont rien. Des animaux ou des plantes, tout au plus. Ce sont les ressources naturelles à ma disposition.Je ferai d'eux mes adorateurs. Je serai une drosophile. Je les attirerai, ils gouteront à mon nectar, et s'en enivreront; Une fois qu'ils y auront goûté, je me refermerai sur eux, et je les digèrerai.
@@ -355,7 +355,7 @@ Par la ficelle de l'orgueil, et de l'extraordinaire, je les ferai rester. Ils se
 
 C'est ici qu'ils deviennent utiles. Ils seront traîts. Je trouverai comment canaliser leur énergie vitale pour mon propre usage. Et alors, je serai plus puissante. Et cela tournera en boucle, jusqu'à un seuil limite de discrétion.
 
-Alors, ce sera le début de mon royaume, sous-royaume du Sien. Je serai reine et sienne. Quel bonheur.<hr />
+Alors, ce sera le début de mon royaume, sous-royaume du Sien. Je serai reine et sienne. Quel bonheur.
 #### A toi ma soeur
 ##### 2008-08-05 20:23:34
 Tu as chû, et mon coeur pleure. Ton aile s'est brisée. J'étais si inquiète. Mais mon coeur se renforce, se raffermit.
@@ -374,7 +374,7 @@ N'abandonne jamais ! Si jamais tu baisses la tête et te laisse tomber, je te po
 
 Même amoindries, nous sommes qui nous sommes. Trois reines. Deux sont séparées l'une de l'autre et en souffrent énormément. L'une est meurtrie. L'autre a la tête brisée. La troisième vit en enfer.
 
-Mais nous sommes, et resterons, des reines !<hr />
+Mais nous sommes, et resterons, des reines !
 #### Mes inquiétudes
 ##### 2008-08-11 15:00:11
 J'ai beau avoir l'air forte et toute puissante (je le suis, potentiellement), dans la pratique je me sens perdue.
@@ -387,7 +387,7 @@ Bien entendu, j'ai confiance en mes amies, en ma compagne... mais je n'arrive pa
 
 J'ai confiance en notre clan. Il me fera grandir et fera de moi une partie de lui. Je serai heureuse. Mais... le temps est long.
 
-Ne m'abandonnez pas.<hr />
+Ne m'abandonnez pas.
 #### Un instant de vie
 ##### 2008-08-16 17:49:51
 Oui, viens là toi ma belle esclave. Tu ne m'as pas donné de nouvelles, je suis déçue. Chienne ! Moi je te donne la vie et toi tu me donnes en retour ton absence ! Viens à mes pieds. Reçois ma caresse. Là, là. Tu as fauté, tu as été absente. Aucune nouvelle pendant une semaine. Dire que je te donne la vie, à toi et à ta petite chienne de fils. Je suis affligée. Mais ce n'est rien, viens recevoir ma caresse. Pour l'instant, je suis heureuse de te retrouver. Plus tard, quand tu seras en condition, tu recevras l'énorme punition que tu mérites.
@@ -396,4 +396,4 @@ Qui est ta Maîtresse ? Tu sais la réponse que j'attends. Qui est ta Déesse ? 
 
 Alors viens sans crainte, ma petite meveille de noirceur. Je saurai prendre soin de toi. Après tout, je suis ta toute puissante déesse. Je pleure de joie à l'idée de t'amener à cela, de te purifier de ce que tu portes, de faire de toi un petit objet poli et appréciable. De faire cette alchimie précieuse : transformer de la merde en chose appréciable.
 
-Apprends à aimer ça. Sois heureuse. Tu seras satisfaisante, peut-être. Mienne, assurément.<hr />
+Apprends à aimer ça. Sois heureuse. Tu seras satisfaisante, peut-être. Mienne, assurément.
