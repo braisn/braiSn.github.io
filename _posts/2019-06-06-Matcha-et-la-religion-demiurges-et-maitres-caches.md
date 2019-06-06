@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Matcha et la religion #2 - Les démiurges et les différentes gnoses
+title: "Matcha et la religion #2 - Les démiurges et les différentes gnoses"
 ---
 
 ## Pourquoi en parler ?
@@ -82,7 +82,7 @@ Je mets une figure de Maître qui me sortira du monde, mais c'est surtout pirate
 
 Je mets une figure de Maître car je suis incapable de m'affranchir moi-même, de m'affirmer face au monde. Je ne fais que l'esquiver, le fuir, laisser sa violence pleuvoir et glisser sur moi. Je m'aplatis dans les dimensions tangibles de cet univers pour m'élever dans l'intangible du Maître-Sauveur.
 
-C'est une dynamique de fuite.
+C'est une dynamique de fuite. Je prends ça pour une gnose car je veux accéder à une connaissance secrète, mais tout ce que je veux c'est être hors du monde que je ne supporte pas. Alors je peux sacrifier (imaginairement, symboliquement) tout ce que j'ai pour me libérer de ce monde. Ces sacrifices sont souhaitables car ce monde ne l'est pas. Quelque part je me rapproche du catharisme et des autres mouvements gnostiques qui considèrent le corps comme impur et mauvais: je considère le monde comme intrinsèquement mauvais car il l'est avec moi.
 
 Cette volonté d'extraction aux pieds du maître imaginaire prend fin au moment où l'hindouïsme entre dans ma vie. Le programme devient alors philosophique.
 
