@@ -39,8 +39,8 @@ exclude:
   - Gemfile.lock
   - node_modules
   - update_boostrap.sh
-disqus:
-  id: braisn
+#disqus:
+#  id: braisn
 
 header_links:
   Reddit: https://www.reddit.com/r/braisn
